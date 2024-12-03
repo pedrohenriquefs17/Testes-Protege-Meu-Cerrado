@@ -49,6 +49,6 @@ Os casos de teste foram elaborados para garantir a qualidade do sistema, abordan
 
 Dúvidas ou sugestões? Entre em contato:  
 **E-mail**: marcodecarvalho04@gmail.com
-**LinkedIn**: [Marco de Carvalho](www.linkedin.com/in/marco-apc)
+**LinkedIn**: [Marco de Carvalho](https://www.linkedin.com/in/marco-apc/)
 
 ---
